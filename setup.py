@@ -4,7 +4,7 @@ import setuptools
 #    long_description = fh.read()
 
 setuptools.setup(
-    name="titanium-rhythm",
+    name="titanium_rhythm",
     version="0.0.1",
     author="Ganesh Kathiresan",
     author_email="ganesh3597@gmail.com",
@@ -12,7 +12,9 @@ setuptools.setup(
 #   long_description=long_description,
 #   long_description_content_type="text/markdown",
     url="https://github.com/DarkFate13/titanium-rhythm",
-    packages=setuptools.find_packages(),
+	packages=['titanium_rhythm'],
+	package_dir = {'titanium_rhythm': 'titanium_rhythm/'},
+	package_data={'titanium_rhythm': ['info/*.*', 'song_info/*.xml']},
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: MIT License",
