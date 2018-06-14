@@ -1,0 +1,22 @@
+language: python
+
+python:
+  - "3.6"
+
+before_install:
+  # install dependencies for acoustid
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq ffmpeg
+  - sudo apt-get install -qq python-gst0.10-dev
+  - sudo apt-get install -qq chromaprint
+  - sudo apt-get install -qq gstreamer1.0
+  - sudo apt-get install -qq python-gi
+  - sudo apt-get install -qq libchromaprint-tools
+  - sudo apt-get install -qq python-gst-1.0
+ 
+install: 
+  - sudo pip3 install -r requirements.txt
+  - python3 setup.py -q install
+
+script: pytest
+
