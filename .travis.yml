@@ -33,8 +33,8 @@ addons:
       - python-gst-1.0
 
 install: 
-  - sudo pip3 install -r requirements.txt
-  - python3 setup.py -q install
+  - pip3 install -r requirements.txt
+  - pip3 install .
 
 script: pytest
 
