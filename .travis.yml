@@ -6,9 +6,35 @@ python:
 os:
   - linux
 
+sudo: required
+
+services:
+  - docker
+
+before_install:
+  # install dependencies for acoustid
+  - sudo apt-get update -qq
+  # - sudo apt-get install -qq ffmpeg
+  - if [ "$TRAVIS_OS_NAME" == "linux" ]; then sudo add-apt-repository -y ppa:mc3man/trusty-media; fi
+  - if [ "$TRAVIS_OS_NAME" == "linux" ]; then sudo apt-get update; fi
+  - if [ "$TRAVIS_OS_NAME" == "linux" ]; then sudo apt-get install -y ffmpeg; fi
+  - ffmpeg -hwaccels
+
+addons:
+  apt:
+    packages:
+      - python-dev
+      - python3-dev
+      - python3-pip
+      - python-gst0.10-dev
+      - gstreamer1.0
+      - libchromaprint-tools
+      - libchromaprint-dev
+      - python-gst-1.0
+
 install: 
-  - sudo pip3 install -r requirements.txt
-  - python3 setup.py -q install
+  - pip3 install -r requirements.txt
+  - pip3 install .
 
 script: pytest
 
