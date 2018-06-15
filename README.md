@@ -13,6 +13,7 @@ This package requires:
 - libchromaprint-tools
 - libchromaprint-dev
 - python-gst-1.0
+- ffmpeg
 
 Install the above dependencies and required packages by:
 
@@ -21,6 +22,12 @@ $ apt-get update
 $ apt-get install <PACKAGES>
 $ pip3 install -r requirements.txt
 $ pip3 install .
+```
+
+### Tests
+
+```sh
+$ pytest
 ```
 
 ### Todos
