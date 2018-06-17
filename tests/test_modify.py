@@ -25,5 +25,5 @@ def test_modify():
 	assert(tag_info['artist'] == rand_string)
 	assert(tag_info['album'] == rand_string)
 	assert(tag_info['genre'].name == 'Rock')
-	# assert(tag_info['lyrics'] == rand_string)
+	assert(tag_info['lyrics'] == rand_string)
 

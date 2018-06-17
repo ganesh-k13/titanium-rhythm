@@ -15,8 +15,8 @@ class Song:
 			self.audiofile.tag.album = album
 		if(genre is not None):
 			self.audiofile.tag.genre = genre
-		
-		# self.audiofile.tag.lyrics = lyrics
+		if(lyrics is not None):
+			self.audiofile.tag.lyrics.set(lyrics)
 		
 		self.audiofile.tag.save()
 		
@@ -26,7 +26,7 @@ class Song:
 		tag_info['artist'] = self.audiofile.tag.artist 
 		tag_info['album'] = self.audiofile.tag.album 
 		tag_info['genre'] = self.audiofile.tag.genre
-		tag_info['lyrics'] = self.audiofile.tag.lyrics 
+		tag_info['lyrics'] = self.audiofile.tag.lyrics[0].text
 		
 		return tag_info
 		
