@@ -6,10 +6,16 @@ class Song:
 		self.audiofile = eyed3.load(filepath)
 	
 	def modify(self, title = None, artist = None, album = None, genre = None, lyrics = None):
-		self.audiofile.tag.title = title
-		self.audiofile.tag.artist = artist
-		self.audiofile.tag.album = album
-		self.audiofile.tag.genre = genre
+		
+		if(title is not None):
+			self.audiofile.tag.title = title
+		if(artist is not None):
+			self.audiofile.tag.artist = artist
+		if(album is not None):
+			self.audiofile.tag.album = album
+		if(genre is not None):
+			self.audiofile.tag.genre = genre
+		
 		# self.audiofile.tag.lyrics = lyrics
 		
 		self.audiofile.tag.save()
