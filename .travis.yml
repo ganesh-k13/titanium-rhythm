@@ -28,6 +28,7 @@ before_install:
   - if [ "$TRAVIS_OS_NAME" == "osx" ]; then brew upgrade python; fi
   - if [ "$TRAVIS_OS_NAME" == "osx" ]; then brew install gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly gst-libav; fi
   - if [ "$TRAVIS_OS_NAME" == "osx" ]; then brew install chromaprint; fi
+  - if [ "$TRAVIS_OS_NAME" == "osx" ]; then brew install libmagic; fi
   - ffmpeg -hwaccels
 
 addons:
