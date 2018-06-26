@@ -16,6 +16,11 @@ def test_modify():
 	
 	s = Song(song_file)
 	s.modify(title = rand_string, artist = rand_string, album = rand_string, genre = 'rock', lyrics = rand_string, image_path = os.path.join(SONG_FOLDER_PATH, 'images.png'))
+	s.modify_title(title = rand_string)
+	s.modify_artist(artist = rand_string)
+	s.modify_genre(genre = 'rock')
+	s.modify_lyrics(lyrics = rand_string)
+	s.modify_image_path(image_path = os.path.join(SONG_FOLDER_PATH, 'images.png'))
 	del(s)
 	
 	new_s = Song(song_file)
