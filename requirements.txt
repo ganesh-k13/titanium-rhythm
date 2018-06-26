@@ -35,4 +35,4 @@ setuptools == 20.7.0
 # tests/test_setup.py: 5
 # tests/test_utils.py: 1
 # titanium_rhythm/annotate.py: 3,4,5
-titanium_rhythm == 0.0.1
+# titanium_rhythm == 0.0.1
