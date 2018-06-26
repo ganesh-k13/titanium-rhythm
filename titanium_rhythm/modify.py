@@ -1,5 +1,7 @@
 import eyed3
 from .utils import get_file_type
+import validators
+import requests
 
 class Song:
 	def __init__(self, filepath):
@@ -19,7 +21,11 @@ class Song:
 		if(lyrics is not None):
 			self.audiofile.tag.lyrics.set(lyrics)		
 		if(image_path is not None):
-			self.audiofile.tag.images.set(3, open(image_path, 'rb').read(), 'image/'+get_file_type(image_path))
+			if(validators.url(image_path) == True):
+				img = requests.get(image_path).content
+				self.audiofile.tag.images.set(3, img, 'image/jpeg')
+			else:
+				self.audiofile.tag.images.set(3, open(image_path, 'rb').read(), 'image/'+get_file_type(image_path))
 		self.audiofile.tag.save()
 		
 		# if(filename != None):
