@@ -1,1 +1,461 @@
-<?xml version="1.0" encoding="UTF-8"?><metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#"><recording id="24d50452-6d0a-46f2-8ba1-9ff61dd8f3d2"><title>Heavy</title><length>169000</length><artist-credit><name-credit joinphrase=" feat. "><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit><name-credit><artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a"><name>Kiiara</name><sort-name>Kiiara</sort-name><alias-list count="1"><alias sort-name="Saulters, Kiara" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Kiara Saulters</alias></alias-list></artist></name-credit></artist-credit><release-list count="10"><release id="0bba6a37-4087-49c9-bf9e-f68363d343b6"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>JP</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="2db42837-c832-3c27-b4a3-08198f75693c"><name>Japan</name><sort-name>Japan</sort-name><iso-3166-1-code-list><iso-3166-1-code>JP</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>093624913221</barcode></release><release id="164d528d-fb61-41d7-84f3-fd5fe7aa239c"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><disambiguation>24bit/44.1kHz</disambiguation><packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>JP</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="2db42837-c832-3c27-b4a3-08198f75693c"><name>Japan</name><sort-name>Japan</sort-name><iso-3166-1-code-list><iso-3166-1-code>JP</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>093624913214</barcode></release><release id="44703741-a292-42e2-85d5-117ca1df8d9b"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>JP</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="2db42837-c832-3c27-b4a3-08198f75693c"><name>Japan</name><sort-name>Japan</sort-name><iso-3166-1-code-list><iso-3166-1-code>JP</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>4943674261888</barcode></release><release id="6d509ab1-1ecb-4936-8c2c-4d4cd89cba49"><title>Heavy</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit joinphrase=" feat. "><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit><name-credit><artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a"><name>Kiiara</name><sort-name>Kiiara</sort-name><alias-list count="1"><alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias></alias-list></artist></name-credit></artist-credit><date>2017-02-16</date><country>XW</country><release-event-list count="1"><release-event><date>2017-02-16</date><area id="525d4e18-3d00-31b9-a58b-a146a916de8f"><name>[Worldwide]</name><sort-name>[Worldwide]</sort-name><iso-3166-1-code-list><iso-3166-1-code>XW</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>054391959270</barcode></release><release id="8a7e1af9-7a9a-4591-a953-b7dd1de1b9db"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><disambiguation>Mastered for iTunes</disambiguation><packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>US</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="489ce91b-6658-3307-9877-795b68554c98"><name>United States</name><sort-name>United States</sort-name><iso-3166-1-code-list><iso-3166-1-code>US</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>093624913214</barcode></release><release id="a0b79924-485f-46a2-9741-e3444e3e695c"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>US</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="489ce91b-6658-3307-9877-795b68554c98"><name>United States</name><sort-name>United States</sort-name><iso-3166-1-code-list><iso-3166-1-code>US</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>093624913238</barcode></release><release id="aa623b4f-f8f7-4639-ad3b-89ec2c3bb465"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><release-event-list count="1"><release-event><date>2017-05-19</date></release-event></release-event-list></release><release id="b85e7ce4-5b54-47c5-9c3d-07ffd75bbb4d"><title>One More Light</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit></artist-credit><date>2017-05-19</date><country>GB</country><release-event-list count="1"><release-event><date>2017-05-19</date><area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed"><name>United Kingdom</name><sort-name>United Kingdom</sort-name><iso-3166-1-code-list><iso-3166-1-code>GB</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>093624913238</barcode></release><release id="dbada53c-66c8-4711-aaa6-da19393c81af"><title>Heavy</title><status id="518ffc83-5cde-34df-8627-81bff5093d92">Promotion</status><quality>normal</quality><packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">Cardboard/Paper Sleeve</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit joinphrase=" feat. "><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit><name-credit><artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a"><name>Kiiara</name><sort-name>Kiiara</sort-name><alias-list count="1"><alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias></alias-list></artist></name-credit></artist-credit><date>2017-03</date><country>GB</country><release-event-list count="1"><release-event><date>2017-03</date><area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed"><name>United Kingdom</name><sort-name>United Kingdom</sort-name><iso-3166-1-code-list><iso-3166-1-code>GB</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode /></release><release id="df5f3553-55c1-4e2d-878e-7e9b3e815835"><title>Heavy</title><status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status><quality>normal</quality><packaging id="36327bc2-f691-3d66-80e5-bd03cec6060a">Slim Jewel Case</packaging><text-representation><language>eng</language><script>Latn</script></text-representation><artist-credit><name-credit joinphrase=" feat. "><artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419"><name>Linkin Park</name><sort-name>Linkin Park</sort-name><alias-list count="4"><alias sort-name="Hybrid Theory">Hybrid Theory</alias><alias sort-name="Limkin Park">Limkin Park</alias><alias sort-name="Lincoln Park">Lincoln Park</alias><alias sort-name="Xero">Xero</alias></alias-list></artist></name-credit><name-credit><artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a"><name>Kiiara</name><sort-name>Kiiara</sort-name><alias-list count="1"><alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias></alias-list></artist></name-credit></artist-credit><date>2017-03-10</date><country>AT</country><release-event-list count="3"><release-event><date>2017-03-10</date><area id="caac77d1-a5c8-3e6e-8e27-90b44dcc1446"><name>Austria</name><sort-name>Austria</sort-name><iso-3166-1-code-list><iso-3166-1-code>AT</iso-3166-1-code></iso-3166-1-code-list></area></release-event><release-event><date>2017-03-10</date><area id="85752fda-13c4-31a3-bee5-0e5cb1f51dad"><name>Germany</name><sort-name>Germany</sort-name><iso-3166-1-code-list><iso-3166-1-code>DE</iso-3166-1-code></iso-3166-1-code-list></area></release-event><release-event><date>2017-03-10</date><area id="1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"><name>Switzerland</name><sort-name>Switzerland</sort-name><iso-3166-1-code-list><iso-3166-1-code>CH</iso-3166-1-code></iso-3166-1-code-list></area></release-event></release-event-list><barcode>0054391959270</barcode></release></release-list></recording></metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+  <recording id="24d50452-6d0a-46f2-8ba1-9ff61dd8f3d2">
+    <title>Heavy</title>
+    <length>169000</length>
+    <artist-credit>
+      <name-credit joinphrase=" feat. ">
+        <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+          <name>Linkin Park</name>
+          <sort-name>Linkin Park</sort-name>
+          <alias-list count="4">
+            <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+            <alias sort-name="Limkin Park">Limkin Park</alias>
+            <alias sort-name="Lincoln Park">Lincoln Park</alias>
+            <alias sort-name="Xero">Xero</alias>
+          </alias-list>
+        </artist>
+      </name-credit>
+      <name-credit>
+        <artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a">
+          <name>Kiiara</name>
+          <sort-name>Kiiara</sort-name>
+          <alias-list count="1">
+            <alias sort-name="Saulters, Kiara" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Kiara Saulters</alias>
+          </alias-list>
+        </artist>
+      </name-credit>
+    </artist-credit>
+    <release-list count="10">
+      <release id="0bba6a37-4087-49c9-bf9e-f68363d343b6">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>JP</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="2db42837-c832-3c27-b4a3-08198f75693c">
+              <name>Japan</name>
+              <sort-name>Japan</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>JP</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>093624913221</barcode>
+      </release>
+      <release id="164d528d-fb61-41d7-84f3-fd5fe7aa239c">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <disambiguation>24bit/44.1kHz</disambiguation>
+        <packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>JP</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="2db42837-c832-3c27-b4a3-08198f75693c">
+              <name>Japan</name>
+              <sort-name>Japan</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>JP</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>093624913214</barcode>
+      </release>
+      <release id="44703741-a292-42e2-85d5-117ca1df8d9b">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>JP</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="2db42837-c832-3c27-b4a3-08198f75693c">
+              <name>Japan</name>
+              <sort-name>Japan</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>JP</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>4943674261888</barcode>
+      </release>
+      <release id="6d509ab1-1ecb-4936-8c2c-4d4cd89cba49">
+        <title>Heavy</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit joinphrase=" feat. ">
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+          <name-credit>
+            <artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a">
+              <name>Kiiara</name>
+              <sort-name>Kiiara</sort-name>
+              <alias-list count="1">
+                <alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-02-16</date>
+        <country>XW</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-02-16</date>
+            <area id="525d4e18-3d00-31b9-a58b-a146a916de8f">
+              <name>[Worldwide]</name>
+              <sort-name>[Worldwide]</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>XW</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>054391959270</barcode>
+      </release>
+      <release id="8a7e1af9-7a9a-4591-a953-b7dd1de1b9db">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <disambiguation>Mastered for iTunes</disambiguation>
+        <packaging id="119eba76-b343-3e02-a292-f0f00644bb9b">None</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>US</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="489ce91b-6658-3307-9877-795b68554c98">
+              <name>United States</name>
+              <sort-name>United States</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>US</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>093624913214</barcode>
+      </release>
+      <release id="a0b79924-485f-46a2-9741-e3444e3e695c">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>US</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="489ce91b-6658-3307-9877-795b68554c98">
+              <name>United States</name>
+              <sort-name>United States</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>US</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>093624913238</barcode>
+      </release>
+      <release id="aa623b4f-f8f7-4639-ad3b-89ec2c3bb465">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+          </release-event>
+        </release-event-list>
+      </release>
+      <release id="b85e7ce4-5b54-47c5-9c3d-07ffd75bbb4d">
+        <title>One More Light</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="ec27701a-4a22-37f4-bfac-6616e0f9750a">Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit>
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-05-19</date>
+        <country>GB</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-05-19</date>
+            <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+              <name>United Kingdom</name>
+              <sort-name>United Kingdom</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>GB</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>093624913238</barcode>
+      </release>
+      <release id="dbada53c-66c8-4711-aaa6-da19393c81af">
+        <title>Heavy</title>
+        <status id="518ffc83-5cde-34df-8627-81bff5093d92">Promotion</status>
+        <quality>normal</quality>
+        <packaging id="f7101ce3-0384-39ce-9fde-fbbd0044d35f">Cardboard/Paper Sleeve</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit joinphrase=" feat. ">
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+          <name-credit>
+            <artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a">
+              <name>Kiiara</name>
+              <sort-name>Kiiara</sort-name>
+              <alias-list count="1">
+                <alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-03</date>
+        <country>GB</country>
+        <release-event-list count="1">
+          <release-event>
+            <date>2017-03</date>
+            <area id="8a754a16-0027-3a29-b6d7-2b40ea0481ed">
+              <name>United Kingdom</name>
+              <sort-name>United Kingdom</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>GB</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode/>
+      </release>
+      <release id="df5f3553-55c1-4e2d-878e-7e9b3e815835">
+        <title>Heavy</title>
+        <status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+        <quality>normal</quality>
+        <packaging id="36327bc2-f691-3d66-80e5-bd03cec6060a">Slim Jewel Case</packaging>
+        <text-representation>
+          <language>eng</language>
+          <script>Latn</script>
+        </text-representation>
+        <artist-credit>
+          <name-credit joinphrase=" feat. ">
+            <artist id="f59c5520-5f46-4d2c-b2c4-822eabf53419">
+              <name>Linkin Park</name>
+              <sort-name>Linkin Park</sort-name>
+              <alias-list count="4">
+                <alias sort-name="Hybrid Theory">Hybrid Theory</alias>
+                <alias sort-name="Limkin Park">Limkin Park</alias>
+                <alias sort-name="Lincoln Park">Lincoln Park</alias>
+                <alias sort-name="Xero">Xero</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+          <name-credit>
+            <artist id="dbc26631-5e61-4ba2-84ff-e1423a1c288a">
+              <name>Kiiara</name>
+              <sort-name>Kiiara</sort-name>
+              <alias-list count="1">
+                <alias type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf" sort-name="Saulters, Kiara">Kiara Saulters</alias>
+              </alias-list>
+            </artist>
+          </name-credit>
+        </artist-credit>
+        <date>2017-03-10</date>
+        <country>AT</country>
+        <release-event-list count="3">
+          <release-event>
+            <date>2017-03-10</date>
+            <area id="caac77d1-a5c8-3e6e-8e27-90b44dcc1446">
+              <name>Austria</name>
+              <sort-name>Austria</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>AT</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+          <release-event>
+            <date>2017-03-10</date>
+            <area id="85752fda-13c4-31a3-bee5-0e5cb1f51dad">
+              <name>Germany</name>
+              <sort-name>Germany</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>DE</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+          <release-event>
+            <date>2017-03-10</date>
+            <area id="1333ff06-8e3d-3c8e-9f3a-13a2a38b41df">
+              <name>Switzerland</name>
+              <sort-name>Switzerland</sort-name>
+              <iso-3166-1-code-list>
+                <iso-3166-1-code>CH</iso-3166-1-code>
+              </iso-3166-1-code-list>
+            </area>
+          </release-event>
+        </release-event-list>
+        <barcode>0054391959270</barcode>
+      </release>
+    </release-list>
+  </recording>
+</metadata>
