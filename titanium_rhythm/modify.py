@@ -2,6 +2,7 @@ import eyed3
 from .utils import get_file_type
 import validators
 import requests
+import os
 
 class Song:
 	def __init__(self, filepath):
@@ -28,8 +29,8 @@ class Song:
 				self.audiofile.tag.images.set(3, open(image_path, 'rb').read(), 'image/'+get_file_type(image_path))
 		self.audiofile.tag.save()
 		
-		# if(filename != None):
-		
+		if(filename is not None):
+			os.rename(self.filepath, os.path.join(os.path.dirname(self.filepath), filename))
 		
 	def modify_title(self, title):
 		self.modify(title = title)
@@ -49,6 +50,9 @@ class Song:
 	def modify_image_path(self, image_path):
 		self.modify(image_path = image_path)
 		
+	def modify_filename(self, filename):
+		self.modify(filename = filename)
+	
 	# def modify_(self, ):
 		# self.modify( = )
 	
