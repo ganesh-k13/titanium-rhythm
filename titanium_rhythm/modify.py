@@ -6,7 +6,7 @@ class Song:
 		self.filepath = filepath
 		self.audiofile = eyed3.load(filepath)
 	
-	def modify(self, title = None, artist = None, album = None, genre = None, lyrics = None, image_path = None):
+	def modify(self, title = None, artist = None, album = None, genre = None, lyrics = None, image_path = None, filename = None):
 		
 		if(title is not None):
 			self.audiofile.tag.title = title
@@ -21,6 +21,9 @@ class Song:
 		if(image_path is not None):
 			self.audiofile.tag.images.set(3, open(image_path, 'rb').read(), 'image/'+get_file_type(image_path))
 		self.audiofile.tag.save()
+		
+		# if(filename != None):
+		
 		
 	def modify_title(self, title):
 		self.modify(title = title)

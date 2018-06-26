@@ -1,3 +1,9 @@
+# Consumer Key	vGjWQytoJdVnmCueiIsE
+# Consumer Secret	wYYPlTcELQvfVORHjIkurHDEHLefltru
+# Request Token URL	https://api.discogs.com/oauth/request_token
+# Authorize URL	https://www.discogs.com/oauth/authorize
+# Access Token URL	https://api.discogs.com/oauth/access_token
+
 import pytest
 import pkg_resources
 import os
@@ -12,6 +18,6 @@ SONG_FILE = pkg_resources.resource_filename('titanium_rhythm', os.path.join('son
 def test_identify():
 	Setup.set_key('PMaILC8xG3')
 	i = Identify(SONG_FILE)
-	i.aidmatch()
+	i.aidmatch(pickle_required = True)
 	
 
