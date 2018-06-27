@@ -30,11 +30,18 @@ $ pip3 install .
 $ pytest
 ```
 
-### Todos
+### Usage
 
- - Parse the obtained XML from recognizing the mp3
- - Use a music DB API to get remainder info
- - Modify the tags
+```
+>>> from titanium_rhythm.annotate import annotate_file
+>>> annotate_file('PMaILC8xG3', filepath)
+```
+or
+
+```
+$ sudo python3 main.py
+```
+ 
 
 ### License: MIT
 
