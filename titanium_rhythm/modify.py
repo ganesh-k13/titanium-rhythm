@@ -27,6 +27,7 @@ class Song:
 				self.audiofile.tag.images.set(3, img, 'image/jpeg')
 			else:
 				self.audiofile.tag.images.set(3, open(image_path, 'rb').read(), 'image/'+get_file_type(image_path))
+		
 		self.audiofile.tag.save()
 		
 		if(filename is not None):
