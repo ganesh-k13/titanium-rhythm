@@ -20,8 +20,7 @@ Install the above dependencies and required packages by:
 ```sh
 $ apt-get update
 $ apt-get install <PACKAGES>
-$ pip3 install -r requirements.txt
-$ pip3 install .
+$ pip3 install titanium-rhythm
 ```
 
 ### Tests

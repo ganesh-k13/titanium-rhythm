@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="titanium_rhythm",
-    version="0.0.2",
+    version="0.0.3",
     author="Ganesh Kathiresan",
     author_email="ganesh3597@gmail.com",
     description="Automatic id3 modifier .mp3 files",
@@ -21,12 +21,12 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ),
 	install_requires=[
-          'discogs_client',
-		  'eyeD3',
-		  'pyacoustid',
-		  'pytest',
-		  'requests',
-		  'setuptools',
-		  'validators',
+          'discogs_client == 2.2.1',
+		  'eyeD3 == 0.8.7',
+		  'pyacoustid == 1.1.5',
+		  'pytest == 3.6.1',
+		  'requests == 2.18.4',
+		  'setuptools == 20.7.0',
+		  'validators == 0.12.2',
       ],
 )
