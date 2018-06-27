@@ -14,3 +14,5 @@ def annotate_file(key, song_file):
 	s = Song(song_file)
 	s.modify_title(data[0].title)
 	s.modify_artist(data[0].artists[0].name)
+	s.modify_image_path(data[0].images[0]['uri'])
+	s.modify_filename(data[0].title+'.mp3')

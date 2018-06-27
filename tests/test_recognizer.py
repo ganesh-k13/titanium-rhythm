@@ -12,7 +12,7 @@ import sys
 from titanium_rhythm.setup_api import Setup
 from titanium_rhythm.identify import Identify
 
-SONG_FILE = pkg_resources.resource_filename('titanium_rhythm', os.path.join('songs', 'unknown.mp3'))
+SONG_FILE = pkg_resources.resource_filename('titanium_rhythm', os.path.join('songs', '23.mp3'))
 
 @pytest.mark.skipif(sys.platform == 'darwin', reason="does not run on osx yet")
 def test_identify():
