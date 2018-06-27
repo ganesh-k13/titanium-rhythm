@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="titanium_rhythm",
-    version="0.0.3",
+    version="1.0.0",
     author="Ganesh Kathiresan",
     author_email="ganesh3597@gmail.com",
     description="Automatic id3 modifier .mp3 files",
@@ -26,7 +26,7 @@ setuptools.setup(
 		  'pyacoustid == 1.1.5',
 		  'pytest == 3.6.1',
 		  'requests == 2.18.4',
-		  'setuptools == 20.7.0',
+		  'setuptools == 38.6.0',
 		  'validators == 0.12.2',
       ],
 )
