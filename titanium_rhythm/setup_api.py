@@ -6,7 +6,7 @@ DATA_PATH = pkg_resources.resource_filename('titanium_rhythm', 'info/')
 JSON_FILE = pkg_resources.resource_filename('titanium_rhythm', os.path.join('info', 'info.json'))
 
 info = dict()
-info['api_key'] = ''
+info['acoustid_key'] = ''
 info['discogs_key'] = ''
 
 class Setup():
@@ -14,13 +14,13 @@ class Setup():
         pass
     
     @staticmethod
-    def set_key(key):
-        info['api_key'] = key
+    def set_acoustid_key(key):
+        info['acoustid_key'] = key
         with open(JSON_FILE, 'w') as f:
             json.dump(info, f, indent = 4)
     
     @staticmethod
-    def get_key():
+    def get_acoustid_key():
         with open(JSON_FILE, 'r') as f:
             info = json.load(f)
         

@@ -5,7 +5,7 @@ from titanium_rhythm.identify import Identify
 from titanium_rhythm.setup_api import Setup
 
 def annotate_file(key, song_file):
-    Setup.set_key(key)
+    Setup.set_acoustid_key(key)
     i = Identify(song_file)
     pickle_file = i.aidmatch(pickle_required = True)
     with open(pickle_file, 'rb') as f:

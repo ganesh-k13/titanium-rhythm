@@ -20,7 +20,7 @@ class Identify():
     def get_info(self):
         with open(JSON_FILE, 'r') as f:
             self.info = json.load(f)
-        self.api_key = self.info['api_key']
+        self.api_key = self.info['acoustid_key']
         
     def aidmatch(self, xml_required = False, pickle_required = False):
         try:

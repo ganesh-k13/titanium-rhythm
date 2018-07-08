@@ -16,7 +16,7 @@ SONG_FILE = pkg_resources.resource_filename('titanium_rhythm', os.path.join('son
 
 @pytest.mark.skipif(sys.platform == 'darwin', reason="does not run on osx yet")
 def test_identify():
-    Setup.set_key('PMaILC8xG3')
+    Setup.set_acoustid_key('PMaILC8xG3')
     i = Identify(SONG_FILE)
     i.aidmatch(pickle_required = True)
     
