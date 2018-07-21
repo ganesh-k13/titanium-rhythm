@@ -1,6 +1,6 @@
 # Titanium-Rhythm
 
-[![Build Status](https://travis-ci.org/DarkFate13/titanium-rhythm.svg?branch=master)](https://travis-ci.org/DarkFate13/titanium-rhythm) ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
+[![Build Status](https://travis-ci.org/ganesh-k13/titanium-rhythm.svg?branch=master)](https://travis-ci.org/ganesh-k13/titanium-rhythm) ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 
 Titanium_Rhythm is a python package that recognizes mp3 files and automatically modifies its ID3.
