@@ -25,7 +25,7 @@ setuptools.setup(
           'eyeD3 == 0.8.7',
           'pyacoustid == 1.1.5',
           'pytest == 3.6.1',
-          'requests == 2.18.4',
+          'requests == 2.20.0',
           'setuptools == 38.6.0',
           'validators == 0.12.2',
       ],
