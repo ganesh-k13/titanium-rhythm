@@ -21,7 +21,7 @@ pytest == 3.6.1
 
 # build/lib/titanium_rhythm/modify.py: 4
 # titanium_rhythm/modify.py: 4
-requests == 2.18.4
+requests == 2.20.0
 
 # build/lib/titanium_rhythm/identify.py: 4
 # build/lib/titanium_rhythm/setup_api.py: 2
