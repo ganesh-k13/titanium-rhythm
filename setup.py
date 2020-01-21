@@ -27,6 +27,6 @@ setuptools.setup(
           'pytest == 3.6.1',
           'requests == 2.18.4',
           'setuptools == 38.6.0',
-          'validators == 0.12.2',
+          'validators == 0.12.6',
       ],
 )

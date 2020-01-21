@@ -45,4 +45,4 @@ setuptools == 20.7.0
 
 # build/lib/titanium_rhythm/modify.py: 3
 # titanium_rhythm/modify.py: 3
-validators == 0.12.2
+validators == 0.12.6
