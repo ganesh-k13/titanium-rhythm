@@ -26,7 +26,7 @@ setuptools.setup(
           'pyacoustid == 1.1.5',
           'pytest == 3.6.1',
           'requests == 2.18.4',
-          'setuptools == 38.6.0',
+          'setuptools == 65.5.1',
           'validators == 0.12.2',
       ],
 )

@@ -31,7 +31,7 @@ requests == 2.18.4
 # tests/test_recognizer.py: 8
 # titanium_rhythm/identify.py: 4
 # titanium_rhythm/setup_api.py: 2
-setuptools == 20.7.0
+setuptools == 65.5.1
 
 # build/lib/titanium_rhythm/annotate.py: 3,4,5
 # example.py: 1
